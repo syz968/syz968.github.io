@@ -21,27 +21,6 @@ wolverine:
     github: wolverine
     role: postdoc
 
-    
-
-
-
-    
-bizhu:
-    display_name: "张碧竹 Bizhu Zhang"
-    role: grad
-    image: /img/people/bizhu.jpg
-
-kedeng:
-    display_name: "吴克登 Kedeng Wu"
-    role: grad
-    image: /img/people/kedeng.jpg
-
-storm:
-    display_name: "虚位以待  We need you!"
-    role: grad
-    image: /img/people/need.png
-
-
 
 alum-a:
     display_name: "Alum A"
